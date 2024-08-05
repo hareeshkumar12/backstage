@@ -31,6 +31,7 @@ metadata:
   annotations:
     backstage.io/source-template: template:default/springboot-template
     backstage.io/linguist: 'https://github.com/backstage/backstage/tree/master/plugins/playlist'
+    jenkins.io/job-full-name: teamA/demo_job
 spec:
   type: service
   lifecycle: experimental
